@@ -34,6 +34,6 @@ Our core team are building out three parts to this:
 We are also inviting other contributor to build proof-of-concepts in other languages. We have a project with [students at Cornell taking cs5152](http://www.cs.cornell.edu/courses/cs5152/2019sp/) who are building out these proof of concepts as part of their course.
 
 Once we are happy with the Ruby implementation, have integrated this into the website, we intend to expand the project to:
-- Auto-approve Two-fer in all Exercism languages
-- Auto-approve other exercises across the site
+- Auto-approve (a significant portion of solutions to) Two-fer in all Exercism languages
+- Auto-approve (a significant portion of solutions to) other exercises across the site
 - Provide feedback on possible improvements within auto-approved exercises
