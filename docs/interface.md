@@ -22,7 +22,7 @@ The `analysis.json` file should be structured as followed:
 ```
 
 The following statuses are valid:
-- `approve_as_optimal`: To be used when a solution matches a pre-known optimal solution.
+- `approve_as_optimal`: To be used when a solution matches pre-known optimal solutions.
 - `approve_with_comment`: To be used when a solution can be approved but with a known improvement.
 - `disapprove_with_comment`: To be used when a solution can be disapproved as suboptimal and a comment is provided.
 - `refer_to_mentor`: This is the default situation and should be used when there is any uncertainty.
