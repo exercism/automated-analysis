@@ -1,10 +1,10 @@
-# Automented Mentoring Support on Exercism
+# Automated Mentoring Support on Exercism
 
 The Automated Mentoring Support Project is a long-term endeavour to support our mentors through the use of automated code analysis.
 
 ## Background
 
-The project started in Febuary 2019. You can read the [blog post that launched it](https://exercism.io/blog/automated-mentoring-support-project) or the [About Document](./docs/about.md) for more information.
+The project started in February 2019. You can read the [blog post that launched it](https://exercism.io/blog/automated-mentoring-support-project) or the [About Document](./docs/about.md) for more information.
 
 ## Analyzers
 - [Ruby](https://github.com/exercism/ruby-analyzer)
@@ -15,7 +15,7 @@ If you would like to get involved in an existing analyzer, please open an issue 
 
 ## The Interface
 
-Analyzers are responsible for analyzing code. The are managed by an orchestrator and must adhere to an interface, which is [defined here](./docs/interface.md).
+Analyzers are responsible for analyzing code. They are managed by an orchestrator and must adhere to an interface, which is [defined here](./docs/interface.md).
 
 ## Copyright
 
