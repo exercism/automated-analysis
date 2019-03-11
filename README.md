@@ -9,7 +9,7 @@ The project started in Febuary 2019. You can read the [blog post that launched i
 ## Analyzers
 - [Ruby](https://github.com/exercism/ruby-analyzer)
 
-If you would like to create an analyzer for a different language, please follow the [Creating an Analyzer Instructions](./docs/creating-an-analyzer.md).
+If you would like to create an analyzer for a different language, please follow the [these instructions](./docs/creating-an-analyzer.md).
 
 If you would like to get involved in an existing analyzer, please open an issue in that repository asking if there is somewhere you can help.
 
