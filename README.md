@@ -13,6 +13,10 @@ If you would like to create an analyzer for a different language, please follow 
 
 If you would like to get involved in an existing analyzer, please open an issue in that repository asking if there is somewhere you can help.
 
+## The Interface
+
+Analyzers are responsible for analyzing code. The are managed by an orchestrator and must adhere to an interface, which is [defined here](./docs/interface.md).
+
 ## Copyright
 
 All content in this repository is Copyright to Exercism and licenced under MIT.
