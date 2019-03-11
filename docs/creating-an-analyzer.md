@@ -4,7 +4,7 @@ Firstly, thank you for your interest in creating an Analyzer!
 
 These are the steps to get going:
 
-1. Check the [README.md](../README.md) to ensure that one doesn't already exist.
+1. Check [our repository list for an existing `...-analyzer`](https://github.com/exercism?q=analyzer) to ensure that one doesn't already exist.
 2. Scan the rest of the docs to ensure you are comfortable with the idea of creating an analyzer
 3. [Open an Issue](https://github.com/exercism/automated-mentoring-support/issues/new) titled "[New Analyzer] $LANGUAGE", introducing yourself and telling us a little about your background. (See an [example here](https://github.com/exercism/automated-mentoring-support/issues/8))
 
