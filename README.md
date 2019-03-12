@@ -7,11 +7,10 @@ The Automated Mentoring Support Project is a long-term endeavour to support our 
 The project started in February 2019. You can read the [blog post that launched it](https://exercism.io/blog/automated-mentoring-support-project) or the [About Document](./docs/about.md) for more information.
 
 ## Analyzers
-- [Ruby](https://github.com/exercism/ruby-analyzer)
+
+If you would like to get involved in [an existing analyzer, please open an issue in its repository](https://github.com/exercism?q=analyzer) asking if there is somewhere you can help.
 
 If you would like to create an analyzer for a different language, please follow the [these instructions](./docs/creating-an-analyzer.md).
-
-If you would like to get involved in an existing analyzer, please open an issue in that repository asking if there is somewhere you can help.
 
 ## The Interface
 
