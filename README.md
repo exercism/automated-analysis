@@ -4,7 +4,7 @@ The Automated Mentoring Support Project is a long-term endeavour to support our 
 
 ## Background
 
-The project started in February 2019. You can read the [blog post that launched it](https://exercism.io/blog/automated-mentoring-support-project) or the [About Document](./docs/about.md) for more information.
+The project started in February 2019. For more information, we recommend reading [our announcement](https://exercism.io/blog/automated-mentoring-support-project) or this repository's [about document](./docs/about.md).
 
 ## Analyzers
 
