@@ -10,7 +10,7 @@ Our volunteer-mentors are crucial to Exercism’s success. They are responsible 
 
 For the Core Exercises that form the spine of an Exercism language track, we estimate that about 25% are good enough to be marked as complete first time. A further 55% have problems that fall into common buckets, which can be mentored by pasting repeatable snippets to a student. Only about 20% of solutions actually require a mentor to be inventive and thoughtful in their feedback. The 80% of solutions that do not truly engage a mentor’s brain are a frustrating and boring time-sink for people who are willing to volunteer their time to helping others, and do not make the most of their expertise.
 
-In parallel to the mentors’ pain-points, depending on the track, learners wait for 1-2 days before receiving feedback on their solution and are unable move forward on the track in the interim. If you fall into the 25% bucket of students who have submitted a perfectly valid solution, this wait is extremely frustrating. To the rest, this delay is suboptimal at best. Learners often lose momentum due to this wait and become frustrated at the process.]
+In parallel to the mentors’ pain-points, depending on the track, learners wait for 1-2 days before receiving feedback on their solution and are unable move forward on the track in the interim. If you fall into the 25% bucket of students who have submitted a perfectly valid solution, this wait is extremely frustrating. To the rest, this delay is suboptimal at best. Learners often lose momentum due to this wait and become frustrated at the process.
 
 ## What we're building
 
