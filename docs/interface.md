@@ -7,7 +7,7 @@ All interactions with the Exercism website are handled automatically. Analyzers 
 - An analyzer should provide an executable script at `bin/analyze.sh` which will be called by the external orchestrator. You can see [an example here](https://github.com/exercism/ruby-analyzer/blob/master/bin/analyze.sh#L4).
 - The script will receive two parameters:
   - The slug of the exercise (e.g. `two-fer`).
-  - A path to a directory containing the submitted file(s).
+  - A path to a directory containing the submitted file(s) (with a trailing slash).
 - The script must write a file to that directory named `analysis.json`
 
 ## Output format
