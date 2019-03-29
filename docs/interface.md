@@ -27,6 +27,14 @@ The following statuses are valid:
 - `disapprove_with_comment`: To be used when a solution can be disapproved as suboptimal and a comment is provided.
 - `refer_to_mentor`: This is the default situation and should be used when there is any uncertainty.
 
+## Debugging
+
+The contents of stdout and stderr from each run will be persisted into files that can be viewed later.
+
+You maybe write an `analysis.out` file that contains and debugging information you want to later view.
+
+At a later date, we will provide an interface for you to download these files along with the submitted files and analysis.json.
+
 ## Comments
 
 Exercism is responsible for the display and communication of comments. The analyzer's job is purely to provide functional comments. Please follow these guidelines:
