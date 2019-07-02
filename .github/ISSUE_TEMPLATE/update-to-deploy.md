@@ -1,5 +1,5 @@
 ---
-name: Analyzer version to deploy
+name: Update to deploy
 about: Request to deploy an updated analyzer
 title: "[Update To Deploy] "
 labels: type/update-to-deploy
