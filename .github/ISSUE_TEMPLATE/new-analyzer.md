@@ -3,7 +3,7 @@ name: New Analyzer
 about: Discuss writing a new analyzer.
 title: "[New Analyzer] "
 labels: enhancement
-assignees: ''
+assignees: 'type/new-analyzer'
 
 ---
 
