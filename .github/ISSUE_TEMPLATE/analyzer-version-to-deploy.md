@@ -1,7 +1,7 @@
 ---
 name: Analyzer version to deploy
 about: Request to deploy an updated analyzer
-title: ''
+title: '[Update To Deploy] '
 labels: 'type/update-to-deploy'
 assignees: ccare
 
