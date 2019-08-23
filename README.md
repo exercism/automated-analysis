@@ -1,6 +1,6 @@
-# Automated Mentoring Support on Exercism
+# Automated Analysis on Exercism
 
-The Automated Mentoring Support Project is a long-term endeavour to support our mentors through the use of automated code analysis.
+Exercism' Automated Analysis a long-term endeavour to support our mentors through the use of automated code analysis.
 
 ## Background
 
