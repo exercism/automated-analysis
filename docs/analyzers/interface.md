@@ -4,7 +4,7 @@ All interactions with the Exercism website are handled automatically. Analyzers 
 
 ## Execution
 
-- An analyzer should provide an executable script. You can find more information in the [docker.md](https://github.com/exercism/automated-mentoring-support/blob/master/docs/docker.md) file.
+- An analyzer should provide an executable script. You can find more information in the [docker.md](../docker.md) file.
 - The script will receive two parameters:
   - The slug of the exercise (e.g. `two-fer`).
   - A path to a directory containing the submitted file(s) (with a trailing slash).
@@ -35,6 +35,7 @@ The `analysis.json` file should be structured as followed:
 ```
 
 The following statuses are valid:
+
 - `approve`: To be used when a solution can be approved.
 - `disapprove`: To be used when a solution can be disapproved as suboptimal and a comment is provided.
 - `refer_to_mentor`: This is the default situation and should be used when there is any uncertainty.
@@ -50,6 +51,7 @@ At a later date, we will provide an interface for you to download these files al
 ## Comments
 
 Exercism is responsible for the display and communication of comments. The analyzer's job is purely to provide functional comments. Please follow these guidelines:
+
 - Comments should be actionable. The user should understand the action they need to undertake.
 - While friendly, they should not try and pretend to be a human and should not contain greetings, etc.
 - The solution should not act like the start of a discussion.

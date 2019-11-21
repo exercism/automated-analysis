@@ -6,7 +6,7 @@ A _representation_ is an extraction of the solution to its essence without names
 
 ## Execution
 
-- A Representer should provide an executable script. You can find more information in the [docker.md](https://github.com/exercism/automated-mentoring-support/blob/master/docs/docker.md) file.
+- A Representer should provide an executable script. You can find more information in the [docker.md](../docker.md) file.
 - The script will receive two parameters:
   - The slug of the exercise (e.g. `two-fer`).
   - A path to a directory containing the submitted file(s) (with a trailing slash).
