@@ -60,6 +60,8 @@ The `mapping.json` file maps placeholders to their original values:
 }
 ```
 
+It is important to note that all identical names must be replaced with the same placeholder, irrespective of scope.
+
 ## Debugging
 
 The contents of `stdout` and `stderr` from each run will be persisted into files that can be viewed later.
