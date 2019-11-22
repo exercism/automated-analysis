@@ -15,7 +15,7 @@ All interactions with the Exercism website are handled automatically. Represente
 
 The `representation.txt` file contains some sort of canonical representation. This representation can take many forms, but is usually an AST:
 
-```
+```ruby
 s(:class,
   s(:const, nil, :PLACEHOLDER_1), nil,
   s(:begin,
@@ -35,7 +35,7 @@ s(:class,
 
 The representation could also just be (normalized) source code:
 
-```
+```ruby
 class PLACEHOLDER_1
   def PLACEHOLDER_2
     PLACEHOLDER_3 = "foo"
