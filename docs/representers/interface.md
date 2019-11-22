@@ -1,8 +1,6 @@
 # The Interface
 
-All interactions with the Exercism website are handled automatically. Representers have the single responsibility of taking a solution and returning a representation of it.
-
-A _representation_ is an extraction of the solution to its essence without names, comments, spacing, etc. but still uniquely identifying the approach taken. Two different ways of solving the exercise must not have the same representation.
+All interactions with the Exercism website are handled automatically. Representers have the single responsibility of taking a solution and returning a representation of it. See the [introduction](./introduction.md) for more information.
 
 ## Execution
 
